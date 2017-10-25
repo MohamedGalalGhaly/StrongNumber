@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508936725 source:/home/mohamed-galal/Desktop/CProjects/StrongNumber/main.c
+	<stdio.h>
+	<stdlib.h>
+
